@@ -1,5 +1,5 @@
 class Employee:                             #use class to define an object
-    def __init__(self, name, salary):       #us constructor for name and salary and use __init__
+    def __init__(self, name, salary):       #use constructor for name and salary and use __init__
         self.name = name
         self.salary = salary
 
